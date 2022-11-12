@@ -1,3 +1,3 @@
 # Pokedex
 
-> Criação de uma Pokedex, ultilizando a PokeAPI 
+> Criação de Pokedex, para o Bootcamp da DIO, ultilizando a PokeAPI 
